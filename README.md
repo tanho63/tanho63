@@ -14,7 +14,7 @@ I'm currently absorbed in developing a brand new R package called [ffscrapR](htt
 I was inspired to have a [now page](https://tanho.ca/now) by Derek Sivers - the [big idea](https://nownownow.com/about) is that it's a page where you can learn what that person is focusing on at this point in their life. My entries are introspective and infrequent.
 
 ### Highlights
-- [DynastyProcess Trade Calculator](https://apps.dynastyprocess.com/calc) - a Shiny app developed with shinyMobile that is used by over 20,000 users each month to analyze dynasty trades and improve decision-making
+- [DynastyProcess Trade Calculator](https://apps.dynastyprocess.com/calc) - a shinyMobile app fed by a weekly update pipeline, used by over 20,000 users each month to analyze dynasty trades and improve decision-making
 - AdvR Presentations: [Ch9 Functionals](https://youtu.be/o0a6aJ4kCkU), [Ch16 OOP Wrapup & Practical Applications](https://www.youtube.com/watch?v=W1uc8HbyZvI&feature=youtu.be)
 
 ### Find me
