@@ -2,11 +2,9 @@
 
 ### Hiya, I'm Tan! :sunglasses: :football: :rowboat: 
 
-I'm a data enthusiast who loves R, Shiny :star_struck:, NFL football, dynasty fantasy football and rowing. By day, I'm a data analyst and developer for [Caivan Communities](https://caivan.com) in Ottawa, Canada.
+I'm a data enthusiast who loves R/Shiny :star_struck:, NFL, dynasty fantasy football and rowing. By day, I'm a data analyst and developer for [Caivan Communities](https://caivan.com) in Ottawa, Canada.
 
-I'm most known for my [DynastyProcess project](https://github.com/DynastyProcess), which tries to deliver high quality resources in the form of Shiny apps and open data. I also build data tools and contribute at [DynastyLeagueFootball.com](https://dynastyleaguefootball.com).
-
-I'm an avid member of the [R4DS Slack](https://www.rfordatasci.com/) where I enjoy answering Tidyverse and Shiny questions, as well as follow along with the [Advanced R Book Club](https://github.com/r4ds/bookclub-advanced_r) - I've even presented a few chapters!
+I'm most known for my [DynastyProcess project](https://github.com/DynastyProcess), which tries to deliver high quality resources in the form of Shiny apps and open data. I also build data tools and contribute at [DynastyLeagueFootball.com](https://dynastyleaguefootball.com). I'm an avid member of the [R4DS Slack](https://www.rfordatasci.com/) where I enjoy answering Tidyverse and Shiny questions, as well as follow along with the [Advanced R Book Club](https://github.com/r4ds/bookclub-advanced_r) - I've even presented a few chapters!
 
 Away from my keyboard, I'm a rower and coach for the [Ottawa Rowing Club](https://ottawarowingclub.com) - I'm a lead coach for the recreational/adult rowing programs. 
 
