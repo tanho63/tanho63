@@ -4,7 +4,7 @@
 
 I'm a data enthusiast who loves R/Shiny :star_struck:, NFL, DynastyFF and rowing. By day, I'm a data analyst and developer for [Caivan](https://caivan.com) in Ottawa, Canada. 
 
-I started [DynastyProcess.com](https://dynastyprocess.com), and contribute at [DLF](https://dynastyleaguefootball.com/tools) and [R4DS Slack Community](https://rfordatasci.com/join). Away from my keyboard, I'm a rower and coach for the [Ottawa Rowing Club](https://ottawarowingclub.com) - I'm a lead coach for the recreational/adult rowing programs.
+I started [DynastyProcess.com](https://dynastyprocess.com) and contribute at [DLF](https://dynastyleaguefootball.com/tools) and [R4DS Slack Community](https://rfordatasci.com/join). Away from my keyboard, I'm a rower and coach for the [Ottawa Rowing Club](https://ottawarowingclub.com) - I'm a lead coach for the recreational/adult rowing programs.
 
 ### Now
 I have a [now page](https://tanho.ca/now)! It's a page where you can learn about what someone is focusing on at this point in their lives. My entries are introspective and infrequent. [More on now pages here](https://nownownow.com/about).
