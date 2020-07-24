@@ -16,4 +16,4 @@ I have a [now page](https://tanho.ca/now)! It's a page where you can [learn abou
 - [AdvR Book Club](https://github.com/r4ds/bookclub-advanced_r) presentations : [Ch9 Functionals](https://youtu.be/o0a6aJ4kCkU), [Ch16 OOP Wrapup](https://www.youtube.com/watch?v=W1uc8HbyZvI)
 
 #### Find me
-[Twitter](https://twitter.com/@_TanHo) is currently the best way to reach me for dev/data/dynastyff questions :)
+[Twitter](https://twitter.com/@_TanHo) is currently the best way to reach me for dev/data/dynastyff questions. 
