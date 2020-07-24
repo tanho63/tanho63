@@ -7,7 +7,7 @@ I'm a data enthusiast who loves R/Shiny :star_struck:, DynastyFF and rowing. By 
 I started [DynastyProcess.com](https://dynastyprocess.com) and contribute at [DLF](https://dynastyleaguefootball.com/tools) and [R4DS Slack Community](https://rfordatasci.com/join). Away from my keyboard, I'm a rower and a lead coach for the [Ottawa Rowing Club](https://ottawarowingclub.com).
 
 #### Now
-I have a [now page](https://tanho.ca/now)! It's a page where [you can learn about what someone is focusing on]((https://nownownow.com/about) at this point in their lives. My entries are introspective and infrequent. 
+I have a [now page](https://tanho.ca/now)! It's a page where [you can learn about what someone is focusing on](https://nownownow.com/about) at this point in their lives. My entries are introspective and infrequent. 
 
 #### Highlights
 - [DynastyProcess Trade Calculator](https://apps.dynastyprocess.com/calc)
