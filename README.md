@@ -10,6 +10,7 @@ I started [DynastyProcess.com](https://dynastyprocess.com) and contribute at [DL
 I have a [now page](https://tanho.ca/now)! It's a page where you can [learn about what someone is focusing on](https://nownownow.com/about) at this point in their lives. My entries are introspective and infrequent. 
 
 #### Highlights
+- [Livecoding Twitch stream](https://twitch.tv/tanho_)
 - [DynastyProcess Trade Calculator](https://apps.dynastyprocess.com/calc)
 - [ffscrapr R package](https://github.com/DynastyProcess/ffscrapr) - v1.3.0 now on CRAN!
 - [DynastyProcess on GitHub](https://github.com/DynastyProcess) - includes [open fantasy football data](https://github.com/DynastyProcess/data) and some [research](https://github.com/DynastyProcess/research)
