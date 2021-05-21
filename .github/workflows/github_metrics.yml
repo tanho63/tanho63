@@ -22,6 +22,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           repositories_affiliations: organization_member
+          repositories_skipped: r4ds/*
           config_animations: yes
           config_timezone: America/Toronto
           plugin_languages: yes
