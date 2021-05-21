@@ -19,7 +19,7 @@ jobs:
 
           # Options
           user: tanho63
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           repositories_affiliations: organization_member
           config_animations: yes
