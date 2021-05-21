@@ -22,7 +22,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           repositories_affiliations: organization_member
-          repositories_skipped: r4ds/*
+          repositories_skipped: r4ds/*, tanho63/tanho63
           config_animations: yes
           config_timezone: America/Toronto
           plugin_languages: yes
