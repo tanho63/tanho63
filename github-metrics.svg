@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1151" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1193" class="">
     <defs>
         <style/>
     </defs>
@@ -1667,7 +1667,7 @@ interception
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone America/Toronto</span>
-                <span>Last updated Fri, 21 May 2021 20:15:29 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Fri, 21 May 2021 21:13:06 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
