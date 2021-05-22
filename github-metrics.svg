@@ -1388,8 +1388,8 @@
               02
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               03
             </div>
                     <div class="entry">
@@ -1529,8 +1529,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">2</span>
-                <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">1</span>
+                <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1667,7 +1667,7 @@ interception
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone America/Toronto</span>
-                <span>Last updated Sat, 22 May 2021 03:26:37 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Sat, 22 May 2021 04:24:59 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
