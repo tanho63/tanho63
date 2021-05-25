@@ -1458,8 +1458,8 @@
               16
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               17
             </div>
                     <div class="entry">
@@ -1509,8 +1509,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">7</span>
-                <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">5</span>
+                <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1641,7 +1641,7 @@ I'll try to make a reprex with what my solution ends up being and then I'll clos
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone America/Toronto</span>
-                <span>Last updated Tue, 25 May 2021 16:37:37 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Tue, 25 May 2021 18:03:05 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
