@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1153" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1158" class="">
     <defs>
         <style/>
     </defs>
@@ -1436,8 +1436,8 @@
               10
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               11
             </div>
                     <div class="entry">
@@ -1527,8 +1527,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">6</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">5</span>
+                <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1673,7 +1673,7 @@ Fixes #287
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone America/Toronto</span>
-                <span>Last updated Thu, 27 May 2021 11:33:13 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Thu, 27 May 2021 12:33:38 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
