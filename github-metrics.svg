@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1168" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1156" class="">
     <defs>
         <style/>
     </defs>
@@ -1674,7 +1674,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 31 May 2021 11:05:15 (timezone America/Toronto) with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Mon, 31 May 2021 12:48:40 (timezone America/Toronto) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
