@@ -2,9 +2,11 @@
 
 #### Hiya, I'm Tan! :sunglasses: :football: :rowboat: 
 
-I'm a data enthusiast who loves R/Shiny :star_struck:, DynastyFF and rowing. By day, I'm a data analyst and developer for [ABIC Builds](https://abicbuilds.com) in Ottawa, Canada. 
+I'm a data enthusiast who loves R/Shiny 🤩, DynastyFF 🏈 and rowing 🚣‍♂️. 
 
-I started [DynastyProcess.com](https://dynastyprocess.com) and contribute at [DLF](https://dynastyleaguefootball.com/tools) and [R4DS Slack Community](https://rfordatasci.com/join). Away from my keyboard, I'm a rower and a lead coach for the [Ottawa Rowing Club](https://ottawarowingclub.com).
+By day, I'm a data developer and analyst for ABIC Builds in Ottawa, Canada. I started [DynastyProcess.com](https://dynastyprocess.com), contribute at [R4DS Slack Community](https://r4ds.io), and stream on [Twitch](https://twitch.tv/tanho_). 
+
+Away from my keyboard, I'm a rower and a lead coach for the Ottawa Rowing Club.
 
 #### Now
 I have a [now page](https://tanho.ca/now)! It's a page where you can [learn about what someone is focusing on](https://nownownow.com/about) at this point in their lives. My entries are introspective and infrequent. 
