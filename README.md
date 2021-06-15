@@ -1,6 +1,6 @@
 ![Tan rowing](https://github.com/tanho63/tanho63/raw/main/cover.png)
 
-#### Hiya, I'm Tan! :sunglasses: :football: :rowboat: 
+## Hiya, I'm Tan!
 
 I'm a data enthusiast who loves R/Shiny 🤩, DynastyFF 🏈 and rowing 🚣‍♂️. 
 
