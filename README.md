@@ -23,4 +23,4 @@ I have a [now page](https://tanho.ca/now)! It's a page where you can [learn abou
 - [StreamRs Discord](https://discord.gg/X9CGQ6dwxZ) is a great place to reach me if you're interested in my general dev and streaming projects
 - [nflverse](https://discord.gg/UCKxQyuPw5) is a great place to reach me if you're interested in nflverse/ffverse analytics projects
 - [Twitter](https://twitter.com/@_TanHo) is also a place you can reach me - my DMs are open there!
-- 
+
