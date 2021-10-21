@@ -4,7 +4,9 @@
 
 I'm a data enthusiast who loves R/Shiny 🤩, DynastyFF 🏈 and rowing 🚣‍♂️. 
 
-By day, I'm a data developer and analyst for ABIC Builds in Ottawa, Canada. I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
+By day, I'm a data developer and analyst for ABIC Builds in Ottawa, Canada. 
+
+I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
 
 Away from my keyboard, I'm a rower and was previously a lead coach for the Ottawa Rowing Club.
 
@@ -14,7 +16,7 @@ I have a [now page](https://tanho.ca/now)! It's a page where you can [learn abou
 #### Highlights
 - [Livecoding Twitch stream](https://twitch.tv/tanho_) - Saturdays at 8pm EDT and Sundays at 11am EDT
 - [DynastyProcess Trade Calculator](https://apps.dynastyprocess.com/calc)
-- [ffverse](https://ffverse.com) features [ffscrapr](https://github.com/ffverse/ffscrapr), [ffsimulator](https://github.com/ffverse/ffsimulator), and [ffpros](https://github.com/ffverse/ffpros)
+- [ffverse](https://ffverse.com) family of R packages features [ffscrapr](https://github.com/ffverse/ffscrapr), [ffsimulator](https://github.com/ffverse/ffsimulator), and [ffpros](https://github.com/ffverse/ffpros)
 - [DynastyProcess on GitHub](https://github.com/DynastyProcess) - includes [open fantasy football data](https://github.com/DynastyProcess/data) and some [research](https://github.com/DynastyProcess/research)
 - [AdvR Book Club](https://github.com/r4ds/bookclub-advanced_r) presentations : [Ch9 Functionals](https://youtu.be/o0a6aJ4kCkU), [Ch16 OOP Wrapup](https://www.youtube.com/watch?v=W1uc8HbyZvI), [Ch22 Debugging](https://www.youtube.com/watch?v=ROMefwMuqXU), [Things I Learned](https://r4ds.github.io/bookclub-Advanced_R/Presentations/Week25/Cohort1/Tan-TIL.html)
 
