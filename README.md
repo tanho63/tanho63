@@ -2,7 +2,7 @@
 
 ## Hiya, I'm Tan!
 
-I'm a data enthusiast who loves R/Shiny 🤩, DynastyFF 🏈 and rowing 🚣‍♂️. 
+I'm a data enthusiast who loves R/Shiny 🤩, DynastyFF 🏈, rowing 🚣‍♂️, and carving pumpkins 🎃 
 
 By day, I'm a data developer and analyst for ABIC Builds in Ottawa, Canada. 
 
