@@ -8,7 +8,7 @@ By day, I'm a data developer and analyst for ABIC Builds in Ottawa, Canada.
 
 I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
 
-Away from my keyboard, I'm a rower and was previously a lead coach for the Ottawa Rowing Club.
+Away from my keyboard, I'm a rower and was previously a lead program coach for the Ottawa Rowing Club.
 
 #### Now
 I have a [now page](https://tanho.ca/now)! It's a page where you can [learn about what someone is focusing on](https://nownownow.com/about) at this point in their lives. My entries are introspective and infrequent. 
