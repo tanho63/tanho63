@@ -6,7 +6,7 @@ I'm a data enthusiast who loves R💫, Shiny✨, dynasty fantasy football 🏈 a
 
 By day, I'm a data developer for ABIC Builds in Ottawa, Canada. 
 
-I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse], stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
+I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse), stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
 
 Away from my keyboard, I enjoy rowing and was previously a lead program coach for the Ottawa Rowing Club.
 
