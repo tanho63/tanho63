@@ -4,7 +4,7 @@
 
 I'm a data enthusiast who loves R💫, Shiny✨, dynasty fantasy football 🏈 and carving pumpkins 🎃
 
-<!--By day, I'm a data developer for ABIC Builds in Ottawa, Canada. -->
+<!-- By day, I'm an ML Engineer for [Zelus Analytics](https://zelusanalytics.com/). -->
 
 I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse), stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
 
