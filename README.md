@@ -20,6 +20,8 @@ I have a [now page](https://tanho.ca/now)! It's a page where you can [learn abou
 - [nflverse](https://github.com/nflverse) project, especially [nflreadr](https://nflreadr.nflverse.com) and the various [automated data pipelines](https://github.com/nflverse/status) that power it
 - [DynastyProcess](https://github.com/DynastyProcess) - includes a popular [Trade Calculator](https://apps.dynastyprocess.com/calculator), [open data](https://github.com/DynastyProcess/data), and some [research](https://github.com/DynastyProcess/research)
 
+#### Buy me a coffee: <https://ko-fi.com/tanho>
+
 #### Find me
 - [nflverse Discord](https://discord.gg/UCKxQyuPw5) is awesome for chatting about football and sports data
-- [Twitter](https://twitter.com/@_TanHo) DMs are open :)
+- [Twitter](https://twitter.com/@_TanHo) DMs are open
