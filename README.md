@@ -20,7 +20,5 @@ I have a [now page](https://tanho.ca/now)! It's a page where you can [learn abou
 - [DynastyProcess](https://github.com/DynastyProcess) - includes a popular [Trade Calculator](https://apps.dynastyprocess.com/calculator), [open data](https://github.com/DynastyProcess/data), and some [research](https://github.com/DynastyProcess/research)
 
 #### Find me
-
-- [streamRs Discord](https://discord.gg/X9CGQ6dwxZ) is a great place to reach me if you're interested in my general dev and streaming projects
 - [nflverse Discord](https://discord.gg/UCKxQyuPw5) is awesome for chatting about football and sports data
 - [Twitter](https://twitter.com/@_TanHo) DMs are open :)
