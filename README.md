@@ -10,9 +10,6 @@ I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https:/
 
 Away from my keyboard, I enjoy rowing and was previously a lead program coach for the Ottawa Rowing Club.
 
-#### Now
-I have a [now page](https://tanho.ca/now)! It's a page where you can [learn about what someone is focusing on](https://nownownow.com/about) at this point in their lives. My entries are introspective and infrequent. 
-
 #### Talks and Recordings
 - [RStudioConf 2022](https://github.com/tanho63/project_immortality): using GitHub Actions and Releases with your R projects
 - [ShinyConf 2023](https://github.com/tanho63/shinyconf_debugging): approaches for debugging Shiny apps
