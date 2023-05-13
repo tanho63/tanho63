@@ -13,7 +13,7 @@ Away from my keyboard, I enjoy rowing and was previously a lead program coach fo
 ### Talks and Recordings
 - [RStudioConf 2022](https://github.com/tanho63/project_immortality): using GitHub Actions and Releases with your R projects
 - [ShinyConf 2023](https://github.com/tanho63/shinyconf_debugging): approaches for debugging Shiny apps
-- [YouTube](https://youtube.com/c/TanHo): recordings from Twitch streams, including several R tutorials on scraping, unnesting lists, and standing up your own AWS Shiny Server.
+- [YouTube](https://youtube.com/c/TanHo): recordings from Twitch streams, including several R tutorials on scraping, unnesting lists, and standing up your own AWS Shiny Server
 
 ### Projects
 - [ffverse](https://ffverse.com) family of R packages, featuring [ffscrapr](https://github.com/ffverse/ffscrapr), [ffsimulator](https://github.com/ffverse/ffsimulator), [ffopportunity](https://github.com/ffverse/ffopportunity), and [ffpros](https://github.com/ffverse/ffpros)
