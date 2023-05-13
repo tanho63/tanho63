@@ -8,7 +8,7 @@ By day, I'm an ML Engineer for [Zelus Analytics](https://zelusanalytics.com/).
 
 I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse), stream on [Twitch](https://twitch.tv/tanho_), and contribute at [R4DS Slack Community](https://r4ds.io).
 
-Away from my keyboard, I enjoy rowing and was previously a lead program coach for the Ottawa Rowing Club.
+Away from my keyboard, I enjoy rowing, skiing, and powerlifting, and was previously a lead program coach for the Ottawa Rowing Club.
 
 ### Talks and Recordings
 - [RStudioConf 2022](https://github.com/tanho63/project_immortality): using GitHub Actions and Releases with your R projects
