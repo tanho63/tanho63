@@ -25,4 +25,3 @@ Away from my keyboard, I enjoy rowing and was previously a lead program coach fo
 ### Find me
 - [nflverse Discord](https://discord.gg/UCKxQyuPw5) is awesome for chatting about football and sports data
 - [Twitter](https://twitter.com/@_TanHo) DMs are open
-- <a rel="me" href="https://fosstodon.org/@tanho">Mastodon</a>
