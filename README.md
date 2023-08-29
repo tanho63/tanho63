@@ -24,4 +24,3 @@ Away from my keyboard, I enjoy rowing, skiing, and powerlifting, and was previou
 
 ### Find me
 - [nflverse Discord](https://discord.gg/UCKxQyuPw5) is awesome for chatting about football and sports data
-- [Twitter](https://twitter.com/@_TanHo) DMs are open
