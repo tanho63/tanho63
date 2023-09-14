@@ -15,7 +15,7 @@ Away from my keyboard, I enjoy skiing, powerlifting, cooking, and hanging out wi
 
 ### What am I up to now?
 
-See my [now page](/now)!
+See my [now page](https://tanho.ca/now)!
 
 ### Talks and Recordings
 - [RStudioConf 2022](https://github.com/tanho63/project_immortality): using GitHub Actions and Releases with your R projects
