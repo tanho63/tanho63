@@ -2,13 +2,20 @@
 
 ## Hiya, I'm Tan!
 
-I'm a data enthusiast who loves R💫, Shiny✨, dynasty fantasy football 🏈 and carving pumpkins 🎃
+I'm a self-taught programmer who loves R, Shiny, fantasy football, and carving pumpkins.
 
-By day, I'm an ML Engineer for [Zelus Analytics](https://zelusanalytics.com/).
+By day, I'm an engineer for Zelus Soccer. I started [DynastyProcess.com](https://dynastyprocess.com) 
+and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse), and mentor at 
+[R4DS Slack Community](https://r4ds.io). 
 
-I started [DynastyProcess.com](https://dynastyprocess.com) and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse), and contribute at [R4DS Slack Community](https://r4ds.io).
+In past lives, I have been a: residential property manager, construction data analyst, fantasy football 
+writer, live-coding streamer, marathon rower, adult rowing coach, and more.
 
-Away from my keyboard, I enjoy rowing, skiing, and powerlifting, and was previously a lead program coach for the Ottawa Rowing Club.
+Away from my keyboard, I enjoy skiing, powerlifting, cooking, and hanging out with my dog Jasper.
+
+### What am I up to now?
+
+See my [now page](/now)!
 
 ### Talks and Recordings
 - [RStudioConf 2022](https://github.com/tanho63/project_immortality): using GitHub Actions and Releases with your R projects
