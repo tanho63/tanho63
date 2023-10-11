@@ -11,7 +11,7 @@ and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflve
 In past lives, I have been a: residential property manager, construction data analyst, fantasy football 
 writer, live-coding streamer, marathon rower, adult rowing coach, and more.
 
-Away from my keyboard, I enjoy skiing, powerlifting, cooking, and hanging out with my dog Jasper.
+Away from my keyboard, I enjoy powerlifting, rowing, skiing, cooking, and hanging out with my dog Jasper.
 
 ### What am I up to now?
 
