@@ -18,8 +18,9 @@ Away from my keyboard, I enjoy powerlifting, rowing, skiing, cooking, and hangin
 See my [now page](https://tanho.ca/now)!
 
 ### Talks and Recordings
-- [RStudioConf 2022](https://github.com/tanho63/project_immortality): using GitHub Actions and Releases with your R projects
-- [ShinyConf 2023](https://github.com/tanho63/shinyconf_debugging): approaches for debugging Shiny apps
+- [RStudioConf 2022](https://github.com/tanho63/talk_rstudioconf2022_github): using GitHub Actions and Releases with your R projects
+- [ShinyConf 2023](https://github.com/tanho63/talk_shinyconf2023_debugging): approaches for debugging Shiny apps
+- [ShinyProd 2023](https://github.com/tanho63/talk_shinyprod2023_logging): strategies for logging in Shiny apps and beyond
 - [YouTube](https://youtube.com/c/TanHo): recordings from Twitch streams, including several R tutorials on scraping, unnesting lists, and standing up your own AWS Shiny Server
 
 ### Projects
