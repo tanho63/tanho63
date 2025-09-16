@@ -4,14 +4,14 @@
 
 I'm a self-taught programmer who loves R, Shiny, fantasy football, and carving pumpkins.
 
-By day, I'm an engineer for Zelus Soccer. I started [DynastyProcess.com](https://dynastyprocess.com) 
+By day, I'm an engineering lead for Teamworks Intelligence Soccer. I started [DynastyProcess.com](https://dynastyprocess.com) 
 and [ffverse](https://ffverse.com), maintain [nflverse](https://github.com/nflverse), and mentor at 
 [Data Science Learning Community](https://dslc.io). 
 
 In past lives, I have been a: residential property manager, construction data analyst, fantasy football 
 writer, live-coding streamer, marathon rower, adult rowing coach, and more.
 
-Away from my keyboard, I enjoy powerlifting, rowing, skiing, cooking, and hanging out with my dog Jasper.
+Away from my keyboard, I enjoy volleyball, powerlifting, rowing, skiing, cooking, and hanging out with my dog Jasper.
 
 ### What am I up to now?
 
