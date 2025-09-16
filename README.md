@@ -21,6 +21,7 @@ See my [now page](https://tanho.ca/now)!
 - [RStudioConf 2022](https://github.com/tanho63/talk_rstudioconf2022_github): using GitHub Actions and Releases with your R projects
 - [ShinyConf 2023](https://github.com/tanho63/talk_shinyconf2023_debugging): approaches for debugging Shiny apps
 - [ShinyProd 2023](https://github.com/tanho63/talk_shinyprod2023_logging): strategies for logging in Shiny apps and beyond
+- [ShinyProd 2024](https://github.com/tanho63/talk_shinyprod2024_scaling): lessons from scaling DynastyProcess.com 
 - [YouTube](https://youtube.com/c/TanHo): recordings from Twitch streams, including several R tutorials on scraping, unnesting lists, and standing up your own AWS Shiny Server
 
 ### Projects
